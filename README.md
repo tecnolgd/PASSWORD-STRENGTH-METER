@@ -1,4 +1,5 @@
 BANKING SYSTEM CLI
+## A CLI Menu based console for banking applications.
 
 ### Features:
 ### Future upgrades:
