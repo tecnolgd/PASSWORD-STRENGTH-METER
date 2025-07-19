@@ -8,6 +8,6 @@ void menu(int choice){
     printf("\t1.");
     printf("\t1.");
     printf("\t1.");
-  
+    printf("\nEXIT\n");
 }
 
