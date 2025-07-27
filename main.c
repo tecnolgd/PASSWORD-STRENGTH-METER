@@ -48,7 +48,7 @@ int main(){
             printf("Strong\n");
         else if((score>=31)&&(score<=35))
             printf("Very Strong\n");
-            if(score>35)
+        else if(score>35)
             printf("Immaculate\n");
 
         
