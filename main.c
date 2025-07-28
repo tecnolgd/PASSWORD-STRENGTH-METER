@@ -1,3 +1,5 @@
+//PASSWORD STRENGTH METER : A basic CLI based meter to measure the password strength and display rank of the password in terms of strength(crack-free)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -9,15 +11,15 @@ int main(){
     printf("\t-----------------------\n");
     printf("Enter a password :");
     scanf("%s",passWord);
-    int length=strlen(passWord);
-    int i=0,j=1,lwrCase=0,uprCase=0,splCase=0,digit=0,space=0,repeat=0,len=0;
+    int length=strlen(passWord); //length of entered password
+    int i=0,j=1,lwrCase=0,uprCase=0,splCase=0,digit=0,space=0,repeat=0,len=0; //initialisation
     if((length>=8)&&(length<=12))
     len++;
     if(length>12)
     len++;
     while(i<length){
-        for(i=0;i<length;i++){
-            if(isupper(passWord[i]))
+        for(i=0;i<length;i++){       //logic for password strength testing
+            if(isupper(passWord[i])) 
                 uprCase++;
             else if(islower(passWord[i]))
                 lwrCase++;
