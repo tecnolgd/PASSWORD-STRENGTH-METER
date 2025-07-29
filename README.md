@@ -13,6 +13,9 @@ PASSWORD STRENGTH METER
 - Link to real-time password strength trends
 - Feedback system for improvement
 ### How to Run ?
+
+
 ### NOTE :
+***If you find this repository insightful for your workflow ,star⭐ or fork the repository.Open for feedbacks and knowledge exchange***
 #### author 
 *tecnolgd*
