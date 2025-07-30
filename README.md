@@ -45,14 +45,14 @@ bash(command line)
 ## Note:*For clear screen in the output,append the code with*
 
 ## *system("cls");*
-//*for WINDOWS OS*
+//for WINDOWS OS
 
 ## *system("clear");*
-//*for MAC/LINUX OS*  (for VS code) 
+//for MAC/LINUX OS 
 
 --------------
 ### NOTE :
-***If you find this repository insightful for your workflow ,consider dropping a star⭐ or hitting fork.Open for feedbacks and knowledge exchange***
+**If you find this repository insightful for your workflow ,consider dropping a *star⭐* or hitting fork.Open for feedbacks and knowledge exchange**
 
-#### author 
+### author 
 *tecnolgd*
