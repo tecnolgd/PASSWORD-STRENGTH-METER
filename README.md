@@ -42,6 +42,8 @@ bash(command line)
 *gcc main.c -o main && main*   (for vs code)
 
 --------------
+### Sample output:
+![Sample Output](output_screenshot.png)
 ## Note:*For clear screen in the output,append the code with*
 
 ## *system("cls");*
