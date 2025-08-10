@@ -2,10 +2,13 @@
 ![Static Badge](https://img.shields.io/badge/Open-Source-Blue)
 
 
+
 # PASSWORD STRENGTH METER
 
 A basic CLI-based password strenght meter which gives the strength rating based on various basic password strength criterion.
 Built to strengthen core programming concepts — loops, conditions, and logic — without any shortcuts or premature complexity.
+
+#### (NOTE : The logic based on which this program works is not completely related to actual password strength testers, but it incorporates basic tests for determining the strength of the password, which may or may not match practical results.)
 
 ### Features⚙️:
 - Logical-based
@@ -54,7 +57,7 @@ bash(command line)
 
 --------------
 ### NOTE :
-**If you find this repository insightful for your workflow ,consider dropping a *star⭐* or hitting fork.Open for feedbacks and knowledge exchange**
+**If you find this repository insightful for your workflow ,consider dropping a *star⭐* or hitting fork.Open for feedbacks and knowledge exchange.**
 
 ### author 
 *tecnolgd*
