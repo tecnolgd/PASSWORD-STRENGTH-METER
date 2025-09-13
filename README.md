@@ -26,7 +26,7 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 
 ## Concepts practiced🪛:
 - conditional statements
-- interation using loops(while,for)
+- interation using loops(while, for)
 - indentation
 ---
 
@@ -38,10 +38,8 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 ---
 
 ## How to Run🔛 ?
-Compile the file using any C compiler:
-
-bash(command line)
-###  Compile the file using any C compiler:
+1) Open terminal.
+1) Compile the file using any C compiler:
 ***gcc main.c -o main && main***  (for vs code)
 
 ---
@@ -49,16 +47,15 @@ bash(command line)
 ![Sample Output](output_screenshot.png)
 ## Note:*For clear screen in the output,append the code with*
 
-## *system("cls");*
-//for WINDOWS OS
-
-## *system("clear");*
+* ***system("cls");***
+//for WINDOWS OS.
+* ***system("clear");***
 //for MAC/LINUX OS 
 
 ---
 ## Value this repo? 💫
-* If you find this repository insightful for your workflow ,consider dropping a *star⭐* or hitting *fork*.    
+* If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
 * Open for feedbacks and knowledge exchange.
 
 ### author 
-*tecnolgd*
+***tecnolgd***
