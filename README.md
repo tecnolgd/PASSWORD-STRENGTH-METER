@@ -38,9 +38,9 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 ---
 
 ## How to Run🔛 ?
-1) Open terminal.
-1) Compile the file using any C compiler:
-***gcc main.c -o main && main***  (for vs code)
+1) Open the terminal.
+2) Compile the file using any C compiler:
+***gcc main.c -o main && main***   (for windows)
 
 ---
 ## Sample output:
