@@ -15,34 +15,29 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 - Pure C- programming
 - Basic practical features
 - User-friendly
----
 
 ##  Tech Stack🚀🚀
 
 - C programming language 
 - Console-based UI
 - logic-building
----
 
 ## Concepts practiced🪛:
 - conditional statements
 - interation using loops(while, for)
 - indentation
----
 
 ## Future upgrades🛰️:
 - Improve range and complexity logic of password testing
 - Add practical criteria 
 - Link to real-time password strength trends
 - Feedback system for improvement
----
 
 ## How to Run🔛 ?
 1) Open the terminal.
 2) Compile the file using any C compiler:
 ***gcc main.c -o main && main***   (for windows)
 
----
 ## Sample output:
 ![Sample Output](output_screenshot.png)
 ## Note:*For clear screen in the output,append the code with*
