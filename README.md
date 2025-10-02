@@ -1,7 +1,7 @@
+
 ![MIT License](https://img.shields.io/github/license/tecnolgd/PASSWORD-STRENGTH-METER?style=flat)
-![Static Badge](https://img.shields.io/badge/Open-Source-Blue)
-
-
+![Static Badge](https://img.shields.io/badge/tools-Open_Source-blue)
+![Static Badge](https://img.shields.io/badge/interface-CLI-white)
 
 # PASSWORD STRENGTH METER
 
@@ -17,7 +17,6 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 - User-friendly
 
 ##  Tech Stack🚀🚀
-
 - C programming language 
 - Console-based UI
 - logic-building
@@ -47,10 +46,9 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 * ***system("clear");***
 //for MAC/LINUX OS 
 
----
 ## Value this repo? 💫
 * If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
 * Open for feedbacks and knowledge exchange.
-
+---
 ### author 
 ***tecnolgd***
