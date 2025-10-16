@@ -12,7 +12,7 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 
 ## Features⚙️:
 - Logical-based
-- Pure C- programming
+- Pure **C- programming**
 - Basic practical features
 - User-friendly
 
@@ -22,9 +22,9 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 - logic-building
 
 ## Concepts practiced🪛:
-- conditional statements
-- interation using loops(while, for)
-- indentation
+- Conditional statements
+- Interation using **loops**(while, for)
+- Indentation
 
 ## Future upgrades🛰️:
 - Improve range and complexity logic of password testing
@@ -35,8 +35,9 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 ## How to Run🔛 ?
 1) Open the terminal.
 2) Compile the file using any C compiler:
-***gcc main.c -o main && main***   (for windows)
-
+```bash
+gcc main.c -o main && main //for windows 
+```
 ## Sample output:
 ![Sample Output](output_screenshot.png)
 ## Note:*For clear screen in the output,append the code with*
@@ -49,6 +50,6 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 ## Value this repo? 💫
 * If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
 * Open for feedbacks and knowledge exchange.
----
+
 ### author 
 ***tecnolgd***
