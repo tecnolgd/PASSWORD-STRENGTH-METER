@@ -41,11 +41,10 @@ gcc main.c -o main && main //for windows
 ## Sample output:
 ![Sample Output](output_screenshot.png)
 ## Note:*For clear screen in the output,append the code with*
-
-* ***system("cls");***
-//for WINDOWS OS.
-* ***system("clear");***
-//for MAC/LINUX OS 
+```c
+system("cls"); //for WINDOWS OS
+system("clear"); //for MAC/LINUX OS
+```
 
 ## Value this repo? 💫
 * If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
