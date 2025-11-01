@@ -32,6 +32,13 @@ Built to strengthen core programming concepts — **loops**, **conditions**, and
 - Link to real-time password strength trends
 - Feedback system for improvement
 
+## How it works ❓️
+1. Run the program in the terminal.
+2. Enter a password made up of mixed characters.(string limitations exist as of now)
+3. The password is passed through a collection of various conditions and assigned points based on some certain assigned password strength criteria.
+4. The total points compute the respective **remark**.(e.g. strong, weak, etc.)
+5. The password strength would be displayed as a **remark**.
+
 ## How to Run🔛 ?
 1) Clone the repo and open folder in the terminal
 2) Compile the file using any C compiler:
