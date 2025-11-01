@@ -5,8 +5,8 @@
 
 # PASSWORD STRENGTH METER
 
-A basic CLI-based password strenght meter which gives the strength rating based on various basic password strength criterion.
-Built to strengthen core programming concepts — loops, conditions, and logic — without any shortcuts or premature complexity.
+A basic CLI-based password strenght meter which gives the strength rating based on various basic password strength criteria.
+Built to strengthen core programming concepts — **loops**, **conditions**, and **logic** — without any shortcuts or premature complexity.
 
 #### (NOTE : The logic based on which this program works is not completely related to actual password strength testers, but it incorporates basic tests for determining the strength of the password, which may or may not match practical results.)
 
@@ -17,8 +17,8 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 - User-friendly
 
 ##  Tech Stack🚀🚀
-- C programming language 
-- Console-based UI
+- **C** programming language 
+- **Console-based** UI
 - logic-building
 
 ## Concepts practiced🪛:
@@ -33,14 +33,14 @@ Built to strengthen core programming concepts — loops, conditions, and logic �
 - Feedback system for improvement
 
 ## How to Run🔛 ?
-1) Open the terminal.
+1) Clone the repo and open folder in the terminal
 2) Compile the file using any C compiler:
 ```bash
 gcc main.c -o main && main //for windows 
 ```
 ## Sample output:
-![Sample Output](output_screenshot.png)
-## Note:*For clear screen in the output,append the code with*
+![Sample Output](output_screenshot.png)        
+**Note**:For clear screen in the output,append the code with
 ```c
 system("cls"); //for WINDOWS OS
 system("clear"); //for MAC/LINUX OS
@@ -50,5 +50,5 @@ system("clear"); //for MAC/LINUX OS
 * If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
 * Open for feedbacks and knowledge exchange.
 
-### author 
+### Author 
 ***tecnolgd***
