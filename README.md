@@ -52,6 +52,10 @@ gcc main.c -o main && main //for windows
 system("cls"); //for WINDOWS OS
 system("clear"); //for MAC/LINUX OS
 ```
+## Readme Add-ons ➕️
+- [x] Comments in source code
+- [x] *How it works ?* section
+- [ ] Coming soon !
 
 ## Value this repo? 💫
 * If you find this repository insightful for your workflow, consider dropping a *star⭐* or hitting *fork*.    
