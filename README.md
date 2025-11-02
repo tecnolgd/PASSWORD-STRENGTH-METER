@@ -55,6 +55,7 @@ system("clear"); //for MAC/LINUX OS
 ## Readme Add-ons ➕️
 - [x] Comments in source code
 - [x] *How it works ?* section
+- [x] Output screenshot
 - [ ] Coming soon !
 
 ## Value this repo? 💫
